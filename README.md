@@ -2,12 +2,14 @@
 Creating a webpage that allows for filtering a table based on user-input.
 
 **Overview of the UFO Analysis**
+
 The purpose of this analysis is to:
 1. Compile data into a JavaScript table
 2. Create additional filters to allow users to input specific parameters
 3. Dynamically filter the table based on the user-input into the filters, allowing for more in-depth analysis by the users 
 
 **UFO Analysis Results**
+
 The process involved in updating the table values includes:
 1. Typing in a single parameter to view the results
 2. Tabbing out of the cell or clicking elsewhere on the webpage to change the table
