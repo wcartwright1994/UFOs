@@ -31,4 +31,4 @@ A drawback of the new design is that it only applies filters to a data table and
 
 For further development, it is recommended that additional functionality is added to cover the limitations described above, plus:
 1. Allow the user to filter for a date range or specific periods during the year
-2. Allow verified users the option to submit additional findings, as there does not appear to be any plans to continuosly update the data with new events.
+2. Allow verified users the option to submit additional findings, as there does not appear to be any plans to continuosly update the data with new events
